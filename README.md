@@ -27,6 +27,7 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MohamedSaad305@)
 ![InstaPay](https://img.shields.io/badge/InstaPay-mohamedsaadte@instapay-5C2D91?style=flat-square)
+![Vodafone Cash](https://img.shields.io/badge/Vodafone_Cash-01148415128-E60000?style=flat-square&logo=vodafone&logoColor=white)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
