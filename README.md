@@ -25,7 +25,8 @@
 [![](https://komarev.com/ghpvc/?username=mohamedcody&icon=0&color=10)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MohamedSaad305@) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MohamedSaad305@)
+  ![InstaPay](https://img.shields.io/badge/InstaPay-mohamedsaadte@instapay-5C2D91?style=for-the-badge)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
